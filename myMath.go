@@ -1,4 +1,4 @@
-package main
+package myMath
 
 func NumSquared(num int) int {
 	tempNum := num
